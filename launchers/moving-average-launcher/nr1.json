@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "moving-average-launcher",
+    "displayName": "Moving Average Demo",
+    "description": "Demonstrates the moving average component",
+    "rootNerdletId": "moving-average-nerdlet"
+}
