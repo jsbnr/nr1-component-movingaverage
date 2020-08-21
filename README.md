@@ -14,7 +14,7 @@ Add the component folder MovingAverage to your own project and import it:
 import MovingAverage from '../../components/MovingAverage';
 ```
 
-You can now use the component either declaratively or imperatively.
+You can now use the component either declaratively or imperatively. To run the demo make sure you set the account ID to your account ID.
 
 ### Declarative example
 ```

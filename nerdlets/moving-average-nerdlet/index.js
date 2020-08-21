@@ -12,7 +12,7 @@ import { timeRangeToNrql } from '@newrelic/nr1-community';
 
 export default class MovingAverageNerdletNerdlet extends React.Component {
   render() {
-    const accountId = 2664312;
+    const accountId = 1; //set this to your account id
     const pollInterval = 60000;
 
     return (
